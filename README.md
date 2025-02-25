@@ -2,7 +2,13 @@
 
 ## Índice
 
-- adsoih
+- [PPS-Unidad2Actividad1-Cristian](#pps-unidad2actividad1-cristian)
+  - [Índice](#índice)
+  - [Trazado de la vulnerabilidad](#trazado-de-la-vulnerabilidad)
+  - [Información sobre vulnerabilidades](#información-sobre-vulnerabilidades)
+  - [Información sobre la debilidad explotada para esta vulnerabilidad](#información-sobre-la-debilidad-explotada-para-esta-vulnerabilidad)
+  - [Patrones de ataque](#patrones-de-ataque)
+  - [JSON de información del CVE](#json-de-información-del-cve)
 
 
 ## Trazado de la vulnerabilidad
